@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: "Fayne's Place",
+  name: "fayne189",
   domain: 'www.fayne189.top',
   author: 'Fayne Huang',
 
