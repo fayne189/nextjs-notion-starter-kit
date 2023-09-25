@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  name: 'Fayne's Blog',
+  domain: 'www.fayne189.top',
   author: 'Fayne Huang',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'It is a personal blog',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
