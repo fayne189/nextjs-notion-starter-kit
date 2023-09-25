@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  github: 'fayne189',
+  // github: 'fayne189',
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
@@ -58,8 +58,8 @@ export default siteConfig({
       pageId: '049de327c1084d12ac45c3d31078245f'
     },
     {
-      title: 'Contact',
-      pageId: 'cc0c6cef14a84202a80bd3191b0251e8'
+      title: 'CV',
+      pageId: 'c1443d21e231458ab6feb860fcfefc58'
     }
   ]
 })
