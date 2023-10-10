@@ -54,7 +54,7 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'About',
+      title: '简历',
       pageId: '049de327c1084d12ac45c3d31078245f'
     },
     {
